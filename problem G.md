@@ -29,6 +29,7 @@
 ```python
 n, k = map(int, input().split())
 ```
+
 ---
 **Sample Input 1:**  
 <p style="margin-left: 1em">3 2</p>

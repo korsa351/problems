@@ -75,6 +75,7 @@ def foo():
 Для каждого запроса **get** выведите в отдельной строке его результат.
 <br>
 <br>
+
 ---
 **Sample Input:**
 <p style="margin-left:1em">

@@ -68,7 +68,6 @@ D A<br>
 </p>
 
 ---
-
 **Sample Output:**
 <p style="margin-left:1em"> 
 Yes<br>

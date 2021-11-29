@@ -4,6 +4,7 @@
 
 Примечание:
 Обратите внимание на параметр **count** у функции **sub**.
+
 ---
 **Sample Input:**
 <p style="margin-left: 1em">There’ll be no more "Aaaaaaaaaaaaaaa"<br>

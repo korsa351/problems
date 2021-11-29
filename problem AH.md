@@ -7,6 +7,7 @@
 
 Обратите внимание на то, что не все ссылки внутри HTML документа могут 
 вести на существующие HTML документы.
+
 ---
 **Sample Input 1:**
 <p style="margin-left: 1em">https://stepic.org/media/attachments/lesson/24472/sample0.html<br>

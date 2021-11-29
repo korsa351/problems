@@ -71,6 +71,7 @@ except FileNotFoundError:
 По условию этого теста, Костя посмотрел на этот код, и сказал Антону, 
 что исключение FileNotFoundError можно не ловить, ведь мы уже ловим OSError -- предок 
 FileNotFoundError
+
 ---
 **Sample Input:**
 <p style="margin-left: 1em">

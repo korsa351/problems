@@ -12,6 +12,7 @@
 ```python
 n = int(input())
 ```
+
 ---
 **Sample Input 1:**
 <p style="margin-left: 1em">
